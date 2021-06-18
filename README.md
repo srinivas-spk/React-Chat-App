@@ -1,6 +1,6 @@
 Check out output using below link
 
-uniquechat.netlify.app
+https://uniquechat.netlify.app/
 
 # Getting Started with Create React App
 
